@@ -16,7 +16,7 @@
 1. リポジトリをクローンします:
 
     ```bash
-    git clone https://github.com/your-username/lighthouse-headless.git
+    git clone https://github.com/codmon-k-sato/lighthouse-headless.git
     ```
 
 2. ディレクトリに移動します:
